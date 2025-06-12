@@ -1,0 +1,16 @@
+{
+    "name": "ezacademy/ezacademy",
+    "description": "Proyecto para el sena",
+    "autoload": {
+        "psr-4": {
+            "MVC\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sergio Vargas",
+            "email": "svargas.ext.uber@gmail.com"
+        }
+    ],
+    "require": {}
+}
